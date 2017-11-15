@@ -1,0 +1,10 @@
+﻿  Project.cpp
+C:\Users\dolemite\Desktop\462 A3-20171114T203437Z-001\462 A3\glui\include\GL/glui.h(852): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Project.cpp(29): warning C4305: 'initializing': truncation from 'double' to 'float'
+Project.cpp(174): warning C4305: 'argument': truncation from 'double' to 'float'
+Project.cpp(180): warning C4305: 'argument': truncation from 'double' to 'float'
+Project.cpp(185): warning C4305: 'argument': truncation from 'double' to 'float'
+Project.cpp(340): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Project.cpp(341): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Project.cpp(342): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  a2.vcxproj -> C:\Users\dolemite\Desktop\462 A3-20171114T203437Z-001\462 A3\.\Debug\a2.exe
